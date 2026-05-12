@@ -5,19 +5,20 @@
 ## Demo video 
 https://www.youtube.com/watch?v=dLmNjxRBg_U
 
-<br>
 
-## Description
+## Project period
 
-> 2022.11.01 - 2021.12.13
+2022.11.01 - 2021.12.13
 
-<br>
+## Tech stack
+- Cloud: AWS(EKS, VPC, ELB, RDS, EC2)
+- IaC: Terraform, Ansible
+- Monitoring: Prometheus, Grafana
 
 ## Contests
 
-📌 Final project of the 1st cohort of Kakao cloud school engineering training program (2022)
+Final project of the 1st cohort of Kakao cloud school engineering training program (2022)
 
-<br>
 
 ## Architecture
 ![Arch](https://user-images.githubusercontent.com/70618223/207789487-49b7f678-1064-4b89-adfb-6ba2e8f875b5.png)
