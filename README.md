@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=dLmNjxRBg_U
 
 ## Project period
 
-2022.11.01 - 2021.12.13
+2021.11.01 - 2021.12.13
 
 ## Tech stack
 - Cloud: AWS(EKS, VPC, ELB, RDS, EC2)
