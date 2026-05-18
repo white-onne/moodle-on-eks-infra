@@ -10,6 +10,10 @@ https://www.youtube.com/watch?v=dLmNjxRBg_U
 
 2022.11.01 - 2022.12.13
 
+## Team member
+Infrastructure: 3
+Web: 2
+
 ## Tech stack
 - Cloud: AWS(EKS, VPC, ELB, RDS, EC2)
 - IaC: Terraform, Ansible
